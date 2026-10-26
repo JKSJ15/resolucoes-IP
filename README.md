@@ -95,16 +95,6 @@ O uso de qualquer um dos itens abaixo resulta na **anulação imediata da quest�
 
 ---
 
-## Aviso
-
-As permissões acima são as atualmente concedidas.
-
-Caso uma questão possua uma permissão explícita adicional, seu uso será permitido apenas naquela questão.
-
-**Nada abaixo da linha seguinte pode ser utilizado antes da lista correspondente.**
-
----
-
 ## Lista 4 - Funções
 
 - Funções (`def`, parâmetros e `return`);
@@ -124,7 +114,9 @@ Caso uma questão possua uma permissão explícita adicional, seu uso será perm
 ---
 
 ## Lista 6 - Recursão
+> **Importante:** Em todas as questões desta lista, a utilização de recursão é obrigatória.
 
 - Recursão.
 
-> **Importante:** Em todas as questões desta lista, a utilização de recursão é obrigatória.
+## Aviso
+Caso uma questão possua uma permissão explícita adicional, seu uso será permitido apenas naquela questão.
